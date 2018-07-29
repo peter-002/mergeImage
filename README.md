@@ -26,28 +26,12 @@ $conf     = [
         'font_coordinates' => ['x' => 140, 'y' => 60 * 2 + 54 * 1.8],
     ],
     [
-        'text'             => '技术',
-        'font_url'         => 'font/PingFang Heavy.ttf',
-        'font_size'        => 28 * 1.6,
-        'angle'            => 0,
-        'font_color'       => ['r' => 255, 'g' => 255, 'b' => 255],
-        'font_coordinates' => ['x' => 140 + 54 * $interval * 1.9 + 40, 'y' => 62 * 2 + 54 * 1.8],
-    ],
-    [
         'text'             => '13812340000',
         'font_url'         => 'font/SF-Pro-Text-Semibold.otf',
         'font_size'        => 28 * 2,
         'angle'            => 0,
         'font_color'       => ['r' => 255, 'g' => 255, 'b' => 255],
         'font_coordinates' => ['x' => 140, 'y' => 170 * 2],
-    ],
-    [
-        'text'             => '深圳xx科技有限公司',
-        'font_url'         => 'font/PingFang Regular.ttf',
-        'font_size'        => 20 * 2,
-        'angle'            => 0,
-        'font_color'       => ['r' => 255, 'g' => 255, 'b' => 255],
-        'font_coordinates' => ['x' => 140, 'y' => 312 * 2],
     ],
     [
         'text'             => '扫码深度了解我',
